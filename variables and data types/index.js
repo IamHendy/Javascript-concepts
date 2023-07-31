@@ -7,3 +7,7 @@ let firstname = "Hendrica";
 let lastname = "Ogema";
 let age = 23;
 let nationality = "Kenyan";
+
+console.log(" My name is" + firstname + lastname);
+console.log("I am" + age + "years old");
+console.log("I am" + nationality);
